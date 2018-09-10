@@ -34,6 +34,9 @@
     "twig/extensions": "^1.5"
   },
   "require-dev": {
+    "behat/behat": "^3.5",
+    "behat/mink-extension": "^2.3",
+    "behat/mink-goutte-driver": "^1.2",
     "doctrine/doctrine-fixtures-bundle": "^3.0",
     "easycorp/easy-log-handler": "^1.0.2",
     "friendsofphp/php-cs-fixer": "^2.10",
